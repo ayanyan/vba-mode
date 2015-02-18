@@ -23,6 +23,11 @@
 
 ;;; Commentary:
 
+;; A major mode for editing Excel VBA codes.  Indentation and
+;; colorization are supported.  Some structures can be inserted with
+;; simple commands.  Completion is available for class names and
+;; function names.
+;;
 ;; The following code is a typiacl example of .emacs.
 ;;
 ;; (autoload 'vba-mode "vba-mode" "Turn a mode for VBA on." t nil)
