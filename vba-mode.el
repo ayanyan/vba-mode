@@ -212,7 +212,7 @@
   (setq font-lock-defaults '(vba-font-lock-keywords nil t nil)))
 
 (defun vba-mode ()
-  "A mojor mode for editing Excel VBA scripts.
+  "A major mode for editing Excel VBA scripts.
 Automatic indentation and fontification are provided.
 
 Commands:
