@@ -24,3 +24,7 @@ This software provides a major mode for editing VBA codes in Emacs.
 \C-cf      : vba-insert-function
 \C-cx      : vba-insert-excel-function
 ```
+
+## Copyright Notice
+
+Follow GPL v2 or later.
